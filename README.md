@@ -13,11 +13,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-![Hireable](https://cdn.rawgit.com/hiendv/hireable/master/styles/default/yes.svg)
+
 
 # ROCK PAPER SCISSORS
 
@@ -67,18 +63,20 @@ Additional description about the project and its features.
 
 - Add animations.
 
-## Authors
+## Authors Contact
 
-👤 Javier Oriol Correas Sanchez Cuesta
-- Github: [@javitocor](https://github.com/javitocor)
-- Twitter: [@JavierCorreas4](https://twitter.com/JavierCorreas4)
-- Linkedin: [Javier Oriol Correas Sanchez Cuesta](https://www.linkedin.com/in/javier-correas-sanchez-cuesta-15289482/)
+For feedback, collaboration, or suggestions, feel free to reach out:
+
+Email: shayanrajpoot520@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/m-shayan-faisal/
+
+GitHub: https://github.com/shayan520898?tab=repositories
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/javitocor/Rock-Paper-Scissors-JS/issues).
 
 ## Show your support
 
@@ -88,17 +86,6 @@ Give a ⭐️ if you like this project!
 
 - The Odin Project
 
-## 📝 License
+License
 
-This project is [MIT](lic.url) licensed.
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/javitocor/Rock-Paper-Scissors-JS.svg?style=flat-square
-[contributors-url]: https://github.com/javitocor/Rock-Paper-Scissors-JS/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/javitocor/Rock-Paper-Scissors-JS.svg?style=flat-square
-[forks-url]: https://github.com/javitocor/Rock-Paper-Scissors-JS/network/members
-[stars-shield]: https://img.shields.io/github/stars/javitocor/Rock-Paper-Scissors-JS.svg?style=flat-square
-[stars-url]: https://github.com/javitocor/Rock-Paper-Scissors-JS/stargazers
-[issues-shield]: https://img.shields.io/github/issues/javitocor/Rock-Paper-Scissors-JS.svg?style=flat-square
-[issues-url]: https://github.com/javitocor/Rock-Paper-Scissors-JS/issues
+This project is open source under the MIT License. You’re welcome to use, modify, or learn from the code. If you enjoy the game, giving the repository a star would be greatly appreciated.
